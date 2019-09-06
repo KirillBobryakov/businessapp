@@ -11,6 +11,7 @@ com/gmail/kirill/ui/util/css/PointerEvents.class
 com/gmail/kirill/ui/components/Badge.class
 com/gmail/kirill/ui/util/LumoStyles$Spacing$Uniform.class
 com/gmail/kirill/ui/util/LumoStyles$Padding$Responsive$Vertical.class
+com/gmail/kirill/backend/entity/Entity.class
 com/gmail/kirill/ui/util/LumoStyles$Margin$Uniform.class
 com/gmail/kirill/ui/layout/size/Uniform.class
 com/gmail/kirill/ui/components/navigation/tab/NaviTabs.class
@@ -21,6 +22,7 @@ com/gmail/kirill/ui/util/LumoStyles$Padding$Vertical.class
 com/gmail/kirill/ui/layout/size/Vertical.class
 com/gmail/kirill/backend/Person$Role.class
 com/gmail/kirill/backend/Transaction.class
+com/gmail/kirill/ui/views/Companies.class
 com/gmail/kirill/ui/util/LumoStyles$Margin$Vertical.class
 com/gmail/kirill/ui/layout/size/Top.class
 com/gmail/kirill/ui/util/LumoStyles$Margin$Bottom.class
@@ -67,9 +69,11 @@ com/gmail/kirill/backend/Address.class
 com/gmail/kirill/ui/components/navigation/bar/AppBar$NaviMode.class
 com/gmail/kirill/ui/util/LumoStyles$Spacing$Bottom.class
 com/gmail/kirill/ui/util/css/FlexDirection.class
+com/gmail/kirill/backend/Neo4jConfiguration.class
 com/gmail/kirill/ui/components/Token.class
 com/gmail/kirill/ui/layout/size/Right.class
 com/gmail/kirill/ui/util/LumoStyles$Color$Tint.class
+com/gmail/kirill/backend/repository/CompanyRepository.class
 com/gmail/kirill/ui/util/css/AlignSelf.class
 com/gmail/kirill/ui/views/Statistics$1.class
 com/gmail/kirill/ui/util/css/Overflow.class
@@ -85,6 +89,7 @@ com/gmail/kirill/ui/util/LumoStyles$Margin$Wide.class
 com/gmail/kirill/ui/util/LumoStyles$Color$Shade.class
 com/gmail/kirill/ui/util/LumoStyles$Margin$Left.class
 com/gmail/kirill/ui/views/Statistics.class
+com/gmail/kirill/ui/views/Companies$BankAccountMobileTemplate.class
 com/gmail/kirill/ui/util/LumoStyles$Spacing$Vertical.class
 com/gmail/kirill/ui/util/LumoStyles$Size.class
 com/gmail/kirill/backend/Invoice.class
@@ -92,8 +97,10 @@ com/gmail/kirill/ui/util/BoxShadowBorders.class
 com/gmail/kirill/ui/util/css/TextOverflow.class
 com/gmail/kirill/backend/Payment$1.class
 com/gmail/kirill/backend/Payment$Status.class
+com/gmail/kirill/backend/entity/Company.class
 com/gmail/kirill/ui/layout/size/Horizontal.class
 com/gmail/kirill/ui/util/css/lumo/BadgeShape.class
+com/gmail/kirill/ui/views/CompanyDetails.class
 com/gmail/kirill/ui/util/css/Display.class
 com/gmail/kirill/ui/layout/size/Bottom.class
 com/gmail/kirill/ui/util/css/Position.class
@@ -109,6 +116,7 @@ com/gmail/kirill/ui/layout/size/Tall.class
 com/gmail/kirill/ui/components/FlexBoxLayout.class
 com/gmail/kirill/ui/views/Accounts$BankAccountMobileTemplate.class
 com/gmail/kirill/ui/util/LumoStyles$Padding$Bottom.class
+com/gmail/kirill/backend/repository/ContractRepository.class
 com/gmail/kirill/ui/util/LumoStyles$FontFamily.class
 com/gmail/kirill/ui/components/navigation/bar/AppBar.class
 com/gmail/kirill/ui/util/LumoStyles$Spacing$Tall.class
@@ -131,6 +139,7 @@ com/gmail/kirill/ui/components/navigation/drawer/BrandExpression.class
 com/gmail/kirill/backend/BankAccount.class
 com/gmail/kirill/ui/util/LumoStyles$Shadow.class
 com/gmail/kirill/ui/components/navigation/bar/TabBar.class
+com/gmail/kirill/backend/entity/Contract.class
 com/gmail/kirill/ui/util/LumoStyles$Margin$Responsive$Vertical.class
 com/gmail/kirill/ui/util/LumoStyles$Margin$Responsive$Horizontal.class
 com/gmail/kirill/ui/util/LumoStyles$Spacing$Top.class

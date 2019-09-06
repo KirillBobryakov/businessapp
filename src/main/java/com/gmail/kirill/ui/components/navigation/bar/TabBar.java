@@ -19,7 +19,7 @@ import com.gmail.kirill.ui.views.Home;
 
 import static com.gmail.kirill.ui.util.UIUtils.IMG_PATH;
 
-@CssImport("styles/components/tab-bar.css")
+@CssImport("./styles/components/tab-bar.css")
 public class TabBar extends FlexBoxLayout {
 
     private String CLASS_NAME = "tab-bar";

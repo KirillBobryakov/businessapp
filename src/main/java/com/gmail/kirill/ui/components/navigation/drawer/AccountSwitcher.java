@@ -13,7 +13,7 @@ import com.gmail.kirill.ui.util.UIUtils;
 
 import static com.gmail.kirill.ui.util.UIUtils.IMG_PATH;
 
-@CssImport("styles/components/account-switcher.css")
+@CssImport("./styles/components/account-switcher.css")
 public class AccountSwitcher extends Div {
 
 	private String CLASS_NAME = "account-switcher";

@@ -3,5 +3,6 @@
   "productionMode": false,
   "npmFolder": "/Users/kirillbobryakov/IDEAProjects/Vaadin/businessapp",
   "generatedFolder": "/Users/kirillbobryakov/IDEAProjects/Vaadin/businessapp/target/frontend",
-  "frontendFolder": "/Users/kirillbobryakov/IDEAProjects/Vaadin/businessapp/frontend"
+  "frontendFolder": "/Users/kirillbobryakov/IDEAProjects/Vaadin/businessapp/frontend",
+  "enableDevServer": false
 }

@@ -17,7 +17,7 @@ import com.gmail.kirill.ui.util.UIUtils;
 import java.util.ArrayList;
 import java.util.List;
 
-@CssImport("styles/components/navi-item.css")
+@CssImport("./styles/components/navi-item.css")
 public class NaviItem extends Div {
 
     private String CLASS_NAME = "navi-item";

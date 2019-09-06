@@ -26,7 +26,7 @@ import com.gmail.kirill.ui.util.*;
 import com.gmail.kirill.ui.util.css.Position;
 import com.gmail.kirill.ui.util.css.*;
 
-@CssImport("styles/views/statistics.css")
+@CssImport("./styles/views/statistics.css")
 @PageTitle("Statistics")
 @Route(value = "statistics", layout = MainLayout.class)
 public class Statistics extends ViewFrame {

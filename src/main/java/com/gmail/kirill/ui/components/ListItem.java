@@ -11,7 +11,7 @@ import com.gmail.kirill.ui.util.UIUtils;
 import com.gmail.kirill.ui.util.css.FlexDirection;
 import com.gmail.kirill.ui.util.css.WhiteSpace;
 
-@CssImport("styles/components/list-item.css")
+@CssImport("./styles/components/list-item.css")
 public class ListItem extends FlexBoxLayout {
 
     private final String CLASS_NAME = "list-item";

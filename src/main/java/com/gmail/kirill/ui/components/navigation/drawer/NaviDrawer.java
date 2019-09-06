@@ -15,7 +15,7 @@ import com.vaadin.flow.router.AfterNavigationObserver;
 import com.gmail.kirill.ui.util.UIUtils;
 import elemental.json.JsonObject;
 
-@CssImport("styles/components/navi-drawer.css")
+@CssImport("./styles/components/navi-drawer.css")
 @JsModule("swipe-away.js")
 public class NaviDrawer extends Div
         implements AfterNavigationObserver {
